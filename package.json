@@ -1,0 +1,10 @@
+{
+  "name": "playwright-monorepo-example",
+  "version": "1.0.0",
+  "private": true,
+  "packages": [
+    "packages/*"
+  ],
+  "author": "Andrew Goldis <agoldis@gmail.com>",
+  "license": "MIT"
+}

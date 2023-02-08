@@ -1,0 +1,13 @@
+{
+  "name": "playwright-monorepo-example-reporter",
+  "version": "1.0.0",
+  "author": "Andrew Goldis <agoldis@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "playwright test -c playwright.config.ts"
+  },
+  "dependencies": {
+    "@currents/playwright": "^0.3.2",
+    "@playwright/test": "^1.30.0"
+  }
+}
